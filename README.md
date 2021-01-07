@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thibaud</h1>
-<h3 align="center">I used to be a brewer. Now working towards becoming a developer.</h3>
+<h3 align="center">What I enjoy the most is having the opportunity to solve problems and creating intuitive and well designed UIs. </h3>
 
-- 🔭 I’m currently working on [Bitter brewing app](https://github.com/thibaudszy/brewing-app-frontend)
+- 🔭 I’m currently working on the second vesion of this app: [Bitter brewing app](https://github.com/thibaudszy/brewing-app-frontend)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Squelize**
+- 🌱 I’m currently learning **Flutter, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thibaudszy](https://github.com/thibaudszy)
 
